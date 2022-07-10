@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dorian-Filip Pavetić, also known as @xyzcod2
-- 👀 Android MVVM, MongoDB, Realm, Firebase (Firestore, RemoteConfig), Spring Boot.
+- 👀 Android MVVM, MongoDB, Realm, Firebase, Spring Boot, Swift, iOS.
 - 🌱 I’m currently learning Java, Spring Boot and Swift. Working on Spring Boot apps and Android apps with Firebase ecosystem.
 - 📫 xyzcod2movies@gmail.com | dorian.pavetic1508@gmail.com
 - 👨🏻‍💻 [SimplifyStay](https://play.google.com/store/apps/developer?id=SimplifyStay&hl=en_US&gl=US)
