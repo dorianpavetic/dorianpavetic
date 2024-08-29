@@ -2,7 +2,7 @@
 - 👀 Java, Swift, C, Javascript | Android MVVM, Spring Boot, iOS, MongoDB, Firebase
 - 🌱 Working on Spring Boot and Android apps. Main focus on Firebase ecosystem.
 - 📫 xyzcod2movies@gmail.com | dorian.pavetic1508@gmail.com
-- 👨🏻‍💻 [Medium](https://medium.com/@dorianpavetic) [SimplifyStay](https://play.google.com/store/apps/developer?id=SimplifyStay&hl=en_US&gl=US)
+- 👨🏻‍💻 [Medium](https://medium.com/@dorianpavetic) | [SimplifyStay](https://play.google.com/store/apps/developer?id=SimplifyStay&hl=en_US&gl=US)
 
 <!---
 xyzcod2/xyzcod2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
