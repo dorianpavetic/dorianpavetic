@@ -3,7 +3,7 @@ In my professional work, I focus on backend architecture and data-driven service
 I enjoy treating software as a long-term craft — writing clean, readable, and maintainable code, continuously learning new technologies, and applying best practices to build systems that are not only functional, but sustainable and easy to evolve.
 
 - 💻 Java, Kotlin, Swift, C, Javascript
-- ⚙️ Backend: Spring Boot, PostgreSQL, Microsoft SQL Server, Oracle DB, MongoDB
+- ⚙️ Backend: Spring Boot, Kafka, PostgreSQL, Microsoft SQL Server, Oracle DB, MongoDB
 - 📱 Mobile: Android (Kotlin/Java), iOS (SwiftUI), Firebase
 - 📫 dorian.pavetic1508@gmail.com
 - 👨🏻‍💻 [LinkedIn](www.linkedin.com/in/dorian-filip-pavetić-2272781b3) | [Medium](https://medium.com/@dorianpavetic) | [SimplifyStay](https://play.google.com/store/apps/developer?id=SimplifyStay&hl=en_US&gl=US)
